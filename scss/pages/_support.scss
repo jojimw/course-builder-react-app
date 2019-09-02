@@ -1,0 +1,58 @@
+.support {
+  &__body {
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: $color-white;
+  }
+
+  &__heading {
+    font-weight: 500;
+    width: 70%;
+    text-align: center;
+    margin: 0 auto 1rem;
+    font-size: 1.9rem;
+    line-height: 2.5rem;
+
+    &-link {
+      color: $color-blue-link;
+    }
+  }
+
+  &__card {
+    display: flex;
+    flex-direction: column;
+    flex: 0 1 30%;
+    align-items: center;
+    text-align: center;
+    padding: 1.5rem;
+    box-shadow: 0px 3px 6px 2px rgba(0, 0, 0, 0.1);
+
+    &-container {
+      display: flex;
+      flex-direction: row;
+      padding: 1rem 8rem;
+      justify-content: space-between;
+    }
+
+    &-title {
+      font-size: 1.2rem;
+      font-weight: 600;
+    }
+
+    &-description {
+      margin-top: 1rem;
+      line-height: 1.5rem;
+      overflow: hidden;
+      max-height: 3rem;
+      color: $color-grey-4;
+      font-weight: 400;
+    }
+
+    &-image {
+        margin: 2rem 0;
+        height: 5rem;
+    }
+  }
+}

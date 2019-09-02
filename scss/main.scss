@@ -1,0 +1,18 @@
+// base sass
+@import 'base/variables';
+@import 'base/common';
+@import 'base/button';
+
+// layout sass
+@import 'layout/main-page';
+@import 'layout/header';
+@import 'layout/main-menu';
+@import 'layout/page-layout';
+@import 'layout/modal';
+@import 'layout/form';
+
+//pages sass
+@import 'pages/support';
+@import 'pages/campaigns';
+@import 'pages/course-builder';
+@import 'pages/dashboard';

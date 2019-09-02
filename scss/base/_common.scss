@@ -1,0 +1,32 @@
+// css style reset
+* {
+  margin: 0;
+  padding: 0;
+}
+
+*,
+::before,
+::after {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  font-family: Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  background-color: $color-grey-1;
+  text-rendering: geometricprecision;
+  min-height: 100vh;
+  min-width: 100%;
+  color: $color-black;
+  font-size: 16px;
+}
+
+a {
+  text-decoration: none;
+  outline: none;
+  cursor: pointer;
+}

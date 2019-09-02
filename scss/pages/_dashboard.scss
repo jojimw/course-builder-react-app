@@ -1,0 +1,46 @@
+.dashboard {
+  &__body {
+    background-color: $color-grey-3;
+    display: flex;
+    flex-direction: column;
+    padding: 3rem 4rem;
+    height: 100%;
+    width: 100%;
+  }
+
+  &__row {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 2rem;
+}
+
+  &__title {
+    font-size: 1.5rem;
+    font-weight: 500;
+    text-transform: capitalize;
+  }
+
+  &__type {
+    font-size: 0.9rem;
+    color: white;
+    background-color: $color-purple;
+    padding: .2rem .5rem;
+    border-radius: 2.5rem;
+    font-weight: 500;
+  }
+
+  &__chart {
+      width: 100%;
+      min-height: 50vh;
+      background-color: $color-white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      &-loading {
+          font-size: 2rem;
+          font-weight: 600;
+      }
+  }
+}

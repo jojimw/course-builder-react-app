@@ -1,0 +1,21 @@
+.main-menu {
+  display: flex;
+  flex-direction: column;
+  padding-top: 2rem;
+  height: auto;
+  width: 16%;
+
+  &__item {
+    line-height: 3.5rem;
+    padding-left: 3rem;
+    color: $color-black;
+    text-transform: capitalize;
+
+    &.active, &:hover {
+        background-color: $color-primary-red;
+        color: $color-white;
+        border-top-right-radius: 1.5rem;
+        border-bottom-right-radius: 1.5rem;
+    }
+  }
+}

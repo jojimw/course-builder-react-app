@@ -1,0 +1,25 @@
+.page-layout {
+  padding-top: 2rem;
+  margin-left: 2rem;
+  padding-right: 2rem;
+  flex: 1; 
+  overflow: auto;
+  position: absolute;
+  top: 0;
+  left: 16%;
+  bottom: 0;
+  right: 0;
+
+  &__title {
+    font-size: 1.5rem;
+    font-weight: 600;
+    text-transform: capitalize;
+  }
+
+  &__body {
+    margin: 2rem 0;
+    background-color: $color-grey-3;
+    display: flex;
+    min-height: 70vh;
+  }
+}
