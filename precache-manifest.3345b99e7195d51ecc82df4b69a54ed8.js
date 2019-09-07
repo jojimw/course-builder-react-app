@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cc7bb660530dbec7778c6a4730d9132f",
+    "revision": "e7343b1d049cd2e1f9d6b08ecdb947ca",
     "url": "/course-builder-react-app/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/course-builder-react-app/static/js/2.c460558f.chunk.js"
   },
   {
-    "revision": "3803d79f35ad2d4e1373",
-    "url": "/course-builder-react-app/static/js/main.5dfe7123.chunk.js"
+    "revision": "f691cafe0503a45f6aa5",
+    "url": "/course-builder-react-app/static/js/main.021eae43.chunk.js"
   },
   {
     "revision": "1e5f4c83bb9be632192f",
