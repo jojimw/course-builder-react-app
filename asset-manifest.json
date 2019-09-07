@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/course-builder-react-app/static/js/main.5dfe7123.chunk.js",
-    "main.js.map": "/course-builder-react-app/static/js/main.5dfe7123.chunk.js.map",
-    "runtime~main.js": "/course-builder-react-app/static/js/runtime~main.498d98f2.js",
-    "runtime~main.js.map": "/course-builder-react-app/static/js/runtime~main.498d98f2.js.map",
-    "static/js/2.c460558f.chunk.js": "/course-builder-react-app/static/js/2.c460558f.chunk.js",
-    "static/js/2.c460558f.chunk.js.map": "/course-builder-react-app/static/js/2.c460558f.chunk.js.map",
-    "index.html": "/course-builder-react-app/index.html",
-    "precache-manifest.155f618db2114b93f550ac524f5ca225.js": "/course-builder-react-app/precache-manifest.155f618db2114b93f550ac524f5ca225.js",
-    "service-worker.js": "/course-builder-react-app/service-worker.js",
-    "static/media/fb-icon.svg": "/course-builder-react-app/static/media/fb-icon.9373c74a.svg",
-    "static/media/google-icon.svg": "/course-builder-react-app/static/media/google-icon.b2c1e467.svg",
-    "static/media/support-icon-1.svg": "/course-builder-react-app/static/media/support-icon-1.7680aafb.svg",
-    "static/media/support-icon-2.svg": "/course-builder-react-app/static/media/support-icon-2.764ffe1c.svg",
-    "static/media/support-icon-3.svg": "/course-builder-react-app/static/media/support-icon-3.60387ba9.svg",
-    "static/media/tick-icon.svg": "/course-builder-react-app/static/media/tick-icon.9f90f85a.svg",
-    "static/media/wrong-icon.svg": "/course-builder-react-app/static/media/wrong-icon.0c001c32.svg"
+    "main.js": "/static/js/main.4eb8e70d.chunk.js",
+    "main.js.map": "/static/js/main.4eb8e70d.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.c460558f.chunk.js": "/static/js/2.c460558f.chunk.js",
+    "static/js/2.c460558f.chunk.js.map": "/static/js/2.c460558f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b494ec789f2c5807829011956bc1378b.js": "/precache-manifest.b494ec789f2c5807829011956bc1378b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/fb-icon.svg": "/static/media/fb-icon.9373c74a.svg",
+    "static/media/google-icon.svg": "/static/media/google-icon.b2c1e467.svg",
+    "static/media/support-icon-1.svg": "/static/media/support-icon-1.7680aafb.svg",
+    "static/media/support-icon-2.svg": "/static/media/support-icon-2.764ffe1c.svg",
+    "static/media/support-icon-3.svg": "/static/media/support-icon-3.60387ba9.svg",
+    "static/media/tick-icon.svg": "/static/media/tick-icon.9f90f85a.svg",
+    "static/media/wrong-icon.svg": "/static/media/wrong-icon.0c001c32.svg"
   }
 }
