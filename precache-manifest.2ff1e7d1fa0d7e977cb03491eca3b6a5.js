@@ -1,15 +1,15 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e7343b1d049cd2e1f9d6b08ecdb947ca",
+    "revision": "87e420421b8d25bbf7e20cf348305df4",
     "url": "/course-builder-react-app/index.html"
   },
   {
-    "revision": "59d284b33db476427ac5",
-    "url": "/course-builder-react-app/static/js/2.c460558f.chunk.js"
+    "revision": "34630faa633e39aa3804",
+    "url": "/course-builder-react-app/static/js/2.803f412b.chunk.js"
   },
   {
-    "revision": "f691cafe0503a45f6aa5",
-    "url": "/course-builder-react-app/static/js/main.021eae43.chunk.js"
+    "revision": "f43f0494490487100b85",
+    "url": "/course-builder-react-app/static/js/main.8e1e7545.chunk.js"
   },
   {
     "revision": "1e5f4c83bb9be632192f",
