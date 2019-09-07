@@ -2,7 +2,7 @@
   "name": "course-builder-react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jojimw.github.io/course-builder-react-app/",
+  "homepage": "https://jojimw.github.io/course-builder-react-app",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "node-sass": "^4.12.0",
