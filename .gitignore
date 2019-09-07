@@ -63,3 +63,6 @@ typings/
 
 # sass compiled css file
 public/css/main.css
+
+# build
+build
